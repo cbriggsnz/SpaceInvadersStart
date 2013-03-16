@@ -1,0 +1,2 @@
+-- base.lua
+-- Creates the bases for protection

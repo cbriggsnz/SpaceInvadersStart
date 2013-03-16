@@ -1,0 +1,2 @@
+-- boundaryWalls.lua
+-- Walls for around the screen so that boundaries can be detected

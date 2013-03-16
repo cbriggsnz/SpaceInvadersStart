@@ -1,0 +1,2 @@
+-- ship.lua
+-- Creates the ship the user will control

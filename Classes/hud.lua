@@ -1,0 +1,2 @@
+-- hud.lua
+-- Shows the level and score
